@@ -108,6 +108,7 @@ function binarySearch(arr, left, right, seekElement) {
 
     return -1;
 }
+
 console.log("--------- Tìm kiếm tuyến tính -------------");
 arr = quickSort([1, 4, 2, 5, 1]);
 console.log("Mảng arr đã sắp xếp:", arr);
